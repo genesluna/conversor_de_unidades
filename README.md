@@ -26,6 +26,10 @@ O aluno deve criar testes unitários que assegurem que o conversor de unidades:
 
 - Deve retornar uma mensagem de erro se o usuário fornecer um valor inválido.
 
+## Vídeo com explicação rápida do código
+
+[![Vídeo com explicação rápida do código](https://img.youtube.com/vi/uYAsy4xExH4/maxresdefault.jpg)](https://www.youtube.com/watch?v=uYAsy4xExH4)
+
 ## Utilizando o código
 
 Para iniciar a criação dos testes, é necessário clonar o projeto do GitHub:
