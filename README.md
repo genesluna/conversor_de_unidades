@@ -30,6 +30,9 @@ O aluno deve criar testes unitários que assegurem que o conversor de unidades:
 
 [![Vídeo com explicação rápida do código](https://img.youtube.com/vi/uYAsy4xExH4/maxresdefault.jpg)](https://www.youtube.com/watch?v=uYAsy4xExH4)
 
+## Repositório com vídeo explicando como fazer os testes unitário e testes de exemplo:
+https://github.com/genesluna/calculadora_imc
+
 ## Utilizando o código
 
 Para iniciar a criação dos testes, é necessário clonar o projeto do GitHub:
